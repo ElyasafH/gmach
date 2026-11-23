@@ -1,0 +1,9 @@
+- [x] Give אליסף access to all general settings without changing יוסף-only lender and export permissions.
+- [x] Use the uploaded portrait as the site logo and browser icon.
+- [x] Add editable about content and donation links to the guest area and after a successful request.
+- [x] Verify the experience on desktop and mobile and confirm request completion.
+- [x] Notify managers about new tool requests while management is open.
+- [x] Add editable borrower return-summary message for יוסף and אליסף and verify saved text in WhatsApp link.
+- [ ] Enable phone push notifications when the site is closed (blocked: workspace connection permission for notification service).
+- [x] Add bulk tool upload (many tools at once via CSV file).
+- [x] Reduce redundant cloud reads while retaining inventory/loan refresh and request alerts; verified real manager search/request/loan views and mutation cache refresh tests.
